@@ -26,5 +26,26 @@ python3 gui.py
 
 ## Screenshots
 
+### Main Screen
+![Main Screen](https://github.com/arjungarg-cf/ScanMe/blob/main/Screenshots/Main.JPG?raw=true)
+
+
+### Grey Scale
+![Grey Scale](https://github.com/arjungarg-cf/ScanMe/blob/main/Screenshots/GreyScale.JPG?raw=true)
+
+
+### OutLines
+![Outlines](https://github.com/arjungarg-cf/ScanMe/blob/main/Screenshots/Outlines.JPG?raw=true)
+
+
+### Perpective Transform
+![Perspective Transform](https://github.com/arjungarg-cf/ScanMe/blob/main/Screenshots/PerpectiveTransform.JPG?raw=true)
+
+### Stitching Images
+Input: https://github.com/arjungarg-cf/ScanMe/blob/main/image-stitching-opencv/images
+
+Output:
+![Stitching](https://github.com/arjungarg-cf/ScanMe/blob/main/Screenshots/Stiched.JPG?raw=true)
+
 ## References
 [1] https://www.news18.com/news/tech/google-removes-camscanner-malware-ridden-app-from-play-store-2289687.html
